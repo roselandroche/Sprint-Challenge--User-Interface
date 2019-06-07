@@ -71,6 +71,14 @@ p {
     margin: 0 auto;
 }
 
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    margin: 20px 15px 40px 0px;
+    padding-left: 0px;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
