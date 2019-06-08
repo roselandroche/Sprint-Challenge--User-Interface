@@ -171,16 +171,22 @@ footer nav a {
 .about-main {
     display: flex;
     flex-flow: column wrap;
-    height: 900px;
+    height: 1000px;
     width: 800px;
-    padding-top: 20px;
     border-top: 2px dotted black;
 }
+
+/* .about-main img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 400px;
+} */
 
 .how-we-work, .places-we-work, .collaboration, .strategy {
     width: 50%;
     height: auto;
     border-bottom: 2px dotted black;
+    padding-top: 40px;
 }
 
 button {
