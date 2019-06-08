@@ -170,7 +170,7 @@ footer nav a {
 
 .about-main {
     display: flex;
-    flex-flow: column wrap;
+    flex-wrap: wrap;
     height: 960px;
     width: 800px;
     border-top: 2px dotted black;
