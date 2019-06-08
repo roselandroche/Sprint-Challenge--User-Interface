@@ -171,6 +171,8 @@ footer nav a {
 .about-main {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
     height: 920px;
     width: 800px;
     border-top: 2px dotted black;
