@@ -173,13 +173,12 @@ footer nav a {
     flex-flow: column wrap;
     height: 900px;
     width: 800px;
+    padding-top: 20px;
+    border-top: 2px dotted black;
 }
 
-.stategy, .how-we-work, .places-we-work, .collaboration {
+.how-we-work, .places-we-work, .collaboration, .strategy {
     width: 50%;
     height: auto;
+    border-bottom: 2px dotted black;
 }
-/* .about-main img {
-    width: 50%;
-    height: auto;
-} */
