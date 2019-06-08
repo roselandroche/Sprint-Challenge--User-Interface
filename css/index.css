@@ -175,7 +175,11 @@ footer nav a {
     width: 800px;
 }
 
-.about-main img {
+.stategy, .how-we-work, .places-we-work, .collaboration {
     width: 50%;
     height: auto;
 }
+/* .about-main img {
+    width: 50%;
+    height: auto;
+} */
