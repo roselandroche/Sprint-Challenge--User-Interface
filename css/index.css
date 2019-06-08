@@ -301,3 +301,20 @@ button:hover {
 .about-bottom {
     margin: 40px 0px;
 }
+
+.contact-img {
+    width: 800px;
+    height: auto;
+}
+
+.lets-talk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contact-title {
+    margin: 40px auto;
+    font-size: 24px;
+}
