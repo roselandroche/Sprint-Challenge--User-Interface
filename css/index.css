@@ -167,3 +167,15 @@ footer nav a {
 .about-top {
     margin: 20px;
 }
+
+.about-main {
+    display: flex;
+    flex-flow: column wrap;
+    height: 900px;
+    width: 800px;
+}
+
+.about-main img {
+    width: 50%;
+    height: auto;
+}
