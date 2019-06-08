@@ -293,6 +293,11 @@ button {
     margin: 15px auto;
 }
 
+button:hover {
+    background-color: black;
+    color: white;
+}
+
 .about-bottom {
     margin: 40px 0px;
 }
